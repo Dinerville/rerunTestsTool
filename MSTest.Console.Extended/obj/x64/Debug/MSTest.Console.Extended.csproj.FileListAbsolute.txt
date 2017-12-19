@@ -1,0 +1,9 @@
+C:\Users\d.naumov\Desktop\re run\AutomateThePlanet\MSTest.Console\MSTest.Console.Extended\bin\x64\Debug\log4net.config
+C:\Users\d.naumov\Desktop\re run\AutomateThePlanet\MSTest.Console\MSTest.Console.Extended\bin\x64\Debug\MSTest.Console.Extended.exe.config
+C:\Users\d.naumov\Desktop\re run\AutomateThePlanet\MSTest.Console\MSTest.Console.Extended\bin\x64\Debug\MSTest.Console.Extended.exe
+C:\Users\d.naumov\Desktop\re run\AutomateThePlanet\MSTest.Console\MSTest.Console.Extended\bin\x64\Debug\MSTest.Console.Extended.pdb
+C:\Users\d.naumov\Desktop\re run\AutomateThePlanet\MSTest.Console\MSTest.Console.Extended\bin\x64\Debug\log4net.dll
+C:\Users\d.naumov\Desktop\re run\AutomateThePlanet\MSTest.Console\MSTest.Console.Extended\bin\x64\Debug\log4net.xml
+C:\Users\d.naumov\Desktop\re run\AutomateThePlanet\MSTest.Console\MSTest.Console.Extended\obj\x64\Debug\MSTest.Console.Extended.exe
+C:\Users\d.naumov\Desktop\re run\AutomateThePlanet\MSTest.Console\MSTest.Console.Extended\obj\x64\Debug\MSTest.Console.Extended.pdb
+C:\Users\d.naumov\Desktop\re run\AutomateThePlanet\MSTest.Console\MSTest.Console.Extended\obj\x64\Debug\MSTest.Console.Extended.csprojResolveAssemblyReference.cache
